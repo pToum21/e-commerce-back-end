@@ -32,9 +32,8 @@ You must npm run seeds to generate the seed data
 
 ## Preview Video
 
-
 ## Preview Photo
-
+![Insomnia Preview](https://github.com/pToum21/e-commerce-back-end/assets/138056441/e6af150d-3171-4b0a-9ba3-e58f9ea48b1a)
 
 ## Qustions - ❓
 Feel Free to contact me at pey3moo3@gmail.com or [ptoum21](https://github.com/ptoum21).
