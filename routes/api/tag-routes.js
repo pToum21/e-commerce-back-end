@@ -43,6 +43,7 @@ router.get('/:id', async (req, res) => {
   
 });
 
+// creat a new tag within the json
 router.post('/', async (req, res) => {
   // create a new tag
   try {
@@ -53,6 +54,7 @@ router.post('/', async (req, res) => {
   }
 });
 
+// update tag by id
 router.put('/:id', async (req, res) => {
   // update a tag's name by its `id` value
   try {
@@ -71,6 +73,7 @@ router.put('/:id', async (req, res) => {
   }
 });
 
+// delete a tag by its id 1 at a time
 router.delete('/:id', async (req, res) => {
   // delete on tag by its `id` value
   try {
