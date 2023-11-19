@@ -31,6 +31,7 @@ You must sign into mysql using mysql -u root
 You must npm run seeds to generate the seed data
 
 ## Preview Video
+https://drive.google.com/file/d/1sMlY8quxHkYNHulCoeweEehmKTSoT7lB/view
 
 ## Preview Photo
 ![Insomnia Preview](https://github.com/pToum21/e-commerce-back-end/assets/138056441/e6af150d-3171-4b0a-9ba3-e58f9ea48b1a)
